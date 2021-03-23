@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi guys here is TIAN ZICHEN, can just call me Jason😎
+### A explorer👀! Keen on Philosophy, Art. Also I do some coding, mainly focus on Computer Vision, Network and What's-Right.
+### Nice to drop e-mail to me for more connection🎨
 
 <!--
 **doem97/doem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
