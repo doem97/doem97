@@ -19,5 +19,7 @@ My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 
 [Generate caption from audio](https://github.com/doem97/audio_to_SRT): An interesting speech recognition tool, generate .SRT subtitle from video&audio files automatically. Good support for Indian English, Singaporean English and Chinese recognition.
 
+
+### My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doem97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doem97&show_icons=true&count_private=true&hide=prs&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
