@@ -1,7 +1,5 @@
 ### Hi guys here is TIAN ZICHEN, can just call me Jason😎
-A explorer👀! Keen on Philosophy, Art. 
-
-In spare time I do some coding.
+A explorer👀! Keen on Philosophy, Art, Coding.
 
 Research area in Computer Vision, Network and those interesting things.
 
