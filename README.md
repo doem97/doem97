@@ -1,7 +1,7 @@
 ### Hi guys here is TIAN ZICHEN, can just call me Jason😎
 A explorer👀! Keen on Philosophy, Art, Coding.
 
-Research area in Computer Vision, Network and those interesting things.
+Researcher in Computer Vision, Network, Chinese literature and those interesting things.
 
 Nice to drop e-mail to me for more connection🎨.
 
