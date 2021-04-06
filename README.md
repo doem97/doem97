@@ -23,3 +23,6 @@ My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 ### My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doem97&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=doem97&show_icons=true&count_private=true&hide=prs&line_height=24)
+
+### Stars graph
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
