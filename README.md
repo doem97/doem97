@@ -11,13 +11,13 @@ My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 
 ### My Recent Interests
 
-[VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of VPG Net, Co-op with great team leaded by @PrabhuSM16.
+[VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of **VPG Net**, Co-op with great team leaded by @PrabhuSM16.
 
-[NTU EEE Dissertation Latex Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template): A latex template for Nanyang Technological University master students' dissertation report.
+[NTU EEE Dissertation Latex Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template): A **latex template** for Nanyang Technological University master students' dissertation report.
 
-[SLC_Chen](https://github.com/doem97/SLC_chen): A medical image classification framework based on KERAS, features in good experiment control.
+[SLC_Chen](https://github.com/doem97/SLC_chen): A medical **image classification** framework based on KERAS, features in good experiment control.
 
-[Generate caption from audio](https://github.com/doem97/audio_to_SRT): An interesting speech recognition tool, generate .SRT subtitle from video&audio files automatically. Good support for Indian English, Singaporean English and Chinese recognition.
+[Generate caption from audio](https://github.com/doem97/audio_to_SRT): An interesting **speech recognition** tool, generate `.SRT` subtitle from video&audio files automatically. Good support for Indian English, Singaporean English and Chinese recognition.
 
 
 ### My GitHub Stats
