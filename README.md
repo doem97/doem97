@@ -5,11 +5,13 @@ Researcher in Computer Vision, AI Perception, Network, Chinese literature and th
 
 Nice to drop e-mail to me for more connection🎨.
 
+### Research Experience
+Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf)
 <!--
 My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 -->
 
-### My Recent Interests
+### Recent Interests
 
 [VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of **VPG Net**, Co-op with great team leaded by @PrabhuSM16, Nanyang Technological Univ.
 
