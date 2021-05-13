@@ -1,4 +1,4 @@
-### Hi guys here is Zichen Tian, can just call me Jason😎
+### Hi there is Jason (Zichen Tian) 😎
 A explorer👀! Keen on Philosophy, Art, Coding.
 
 Researcher in Computer Vision, AI Perception, Network, Chinese literature and those interesting things.
