@@ -1,7 +1,5 @@
-### Hi there is Jason (Zichen Tian)
-Philosophy, Art, Coding.
-
-Computer Vision, Switching Network, Chinese literature.
+### Jason (Zichen Tian)
+Computer Vision, Network Security, Coding, Design, Chinese Literature, Philosophy.
 
 ### Research Experience
 Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf)
