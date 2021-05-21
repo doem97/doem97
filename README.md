@@ -1,9 +1,7 @@
-### Hi there is Jason (Zichen Tian) 😎
-A explorer👀! Keen on Philosophy, Art, Coding.
+### Hi there is Jason (Zichen Tian)
+Philosophy, Art, Coding.
 
-Research in Computer Vision, Switching Network, Chinese literature and those interesting things.
-
-Nice to drop e-mail to me for more connection🎨.
+Computer Vision, Switching Network, Chinese literature.
 
 ### Research Experience
 Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf)
