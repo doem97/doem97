@@ -1,7 +1,7 @@
 ### Hi there is Jason (Zichen Tian) 😎
 A explorer👀! Keen on Philosophy, Art, Coding.
 
-Researcher in Computer Vision, AI Perception, Network, Chinese literature and those interesting things.
+Research in Computer Vision, Switching Network, Chinese literature and those interesting things.
 
 Nice to drop e-mail to me for more connection🎨.
 
