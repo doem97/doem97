@@ -1,5 +1,5 @@
 ### Jason (Zichen Tian)
-Computer Vision, Network Attack n Defense, Coding, Design, Chinese Literature, Philosophy.
+Computer Vision, Design
 
 Main page: [Zichen's Blog](https://doem1997.home.blog/)
 
