@@ -4,7 +4,7 @@ AI Perception, Design
 Main page: [Zichen's Blog](https://doem1997.home.blog/)
 
 ### Research Experience
-Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf). I open-source it as C.V. LaTeX template, glad if anyone likes it.
+Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf). Open-sourced as C.V. template in LaTeX.
 <!--
 My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 -->
