@@ -1,5 +1,5 @@
 ### Jason (Zichen Tian)
-AI Perception, Design
+Computer Vision, Design
 
 Main page: [Zichen's Blog](https://doem1997.home.blog/)
 
