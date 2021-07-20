@@ -3,7 +3,7 @@ Computer Vision, Design
 [Main Page](https://doem1997.home.blog/)
 
 ### Research Experience
-Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf). Open-sourced as C.V. template in LaTeX.
+Check my experience at [My Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf). Open-sourced as C.V. template in LaTeX.
 <!--
 My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 -->
