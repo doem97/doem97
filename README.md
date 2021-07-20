@@ -1,7 +1,6 @@
-### Jason (Zichen Tian)
 Computer Vision, Design
 
-Main page: [Zichen's Blog](https://doem1997.home.blog/)
+[Main Page](https://doem1997.home.blog/)
 
 ### Research Experience
 Check my experience at [Tian Zichen's Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf). Open-sourced as C.V. template in LaTeX.
