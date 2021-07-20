@@ -15,7 +15,7 @@ My mainpage under construction: [doem97's main page](https://doem97.github.io/)
 
 [NTU EEE Dissertation Latex Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template): A **latex template** for Nanyang Technological University M.Sc dissertation report.
 
-[SLC_Chen](https://github.com/doem97/SLC_chen): A **medical image segmentation&classification** framework based on KERAS, features in good experiment control.
+[SLC_Chen](https://github.com/doem97/SLC_chen): A **medical image segmentation & classification** framework based on KERAS, features in good experiment control.
 
 [Generate caption from audio](https://github.com/doem97/audio_to_SRT): An interesting **speech recognition** tool, generate `.SRT` subtitle from video&audio files automatically. Good support for Indian English, Singaporean English and Chinese recognition.
 
