@@ -4,7 +4,7 @@
 
 ### Recent Interests
 
-[LaTeX Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf): A beautiful **Academic C.V. template in Latex** designed by me. Sections are given in examples.
+[LaTeX Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf): **Academic C.V. template in Latex** designed by me. Sections are given in examples.
 
 [VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of **VPG Net**.
 
