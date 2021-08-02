@@ -6,7 +6,7 @@
 
 [LaTeX Curriculum Vitae](https://github.com/doem97/Resume-of-TIAN-ZICHEN/blob/main/TIAN_ZICHEN_Curriculum_Vitae.pdf): **Academic C.V. template in Latex** designed by me. Sections are given in examples.
 
-[VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of **VPG Net**.
+[VPGNet-PyTorch](https://github.com/PrabhuSM16/VPGNet-Pytorch): A pytorch implementation of **VPG Net**, lane and road marking detection.
 
 [NTU EEE Dissertation Latex Template](https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template): A **latex template** for Nanyang Technological University M.Sc dissertation report.
 
